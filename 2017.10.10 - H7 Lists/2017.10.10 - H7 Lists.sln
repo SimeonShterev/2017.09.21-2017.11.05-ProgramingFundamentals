@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Sequence of Equal Elements", "Max Sequence of Equal Elements\Max Sequence of Equal Elements.csproj", "{151BA616-6D36-46BF-A98F-0D6D7E190ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change List", "Change List\Change List.csproj", "{58684149-7F8C-4064-98DE-8DA7D6634298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search for a Number", "Search for a Number\Search for a Number.csproj", "{88553D79-8A25-4110-A6CF-37A27936817A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Increasing Subsequence", "Longest Increasing Subsequence\Longest Increasing Subsequence.csproj", "{74DBF703-565A-4396-874C-117A50B359A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Manipulator", "Array Manipulator\Array Manipulator.csproj", "{0EDBCE49-38E9-42B7-87B9-EC6F648B458E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Reversed Numbers", "Sum Reversed Numbers\Sum Reversed Numbers.csproj", "{EA5BEB6E-D51D-47C5-95EE-5C7C8EA6838D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bomb Numbers", "Bomb Numbers\Bomb Numbers.csproj", "{557D37D4-1398-4FCC-A56D-CDF654FC03DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151BA616-6D36-46BF-A98F-0D6D7E190ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151BA616-6D36-46BF-A98F-0D6D7E190ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151BA616-6D36-46BF-A98F-0D6D7E190ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151BA616-6D36-46BF-A98F-0D6D7E190ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58684149-7F8C-4064-98DE-8DA7D6634298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58684149-7F8C-4064-98DE-8DA7D6634298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58684149-7F8C-4064-98DE-8DA7D6634298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58684149-7F8C-4064-98DE-8DA7D6634298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88553D79-8A25-4110-A6CF-37A27936817A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88553D79-8A25-4110-A6CF-37A27936817A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88553D79-8A25-4110-A6CF-37A27936817A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88553D79-8A25-4110-A6CF-37A27936817A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74DBF703-565A-4396-874C-117A50B359A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DBF703-565A-4396-874C-117A50B359A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DBF703-565A-4396-874C-117A50B359A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DBF703-565A-4396-874C-117A50B359A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDBCE49-38E9-42B7-87B9-EC6F648B458E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDBCE49-38E9-42B7-87B9-EC6F648B458E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDBCE49-38E9-42B7-87B9-EC6F648B458E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDBCE49-38E9-42B7-87B9-EC6F648B458E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5BEB6E-D51D-47C5-95EE-5C7C8EA6838D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5BEB6E-D51D-47C5-95EE-5C7C8EA6838D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5BEB6E-D51D-47C5-95EE-5C7C8EA6838D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5BEB6E-D51D-47C5-95EE-5C7C8EA6838D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557D37D4-1398-4FCC-A56D-CDF654FC03DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557D37D4-1398-4FCC-A56D-CDF654FC03DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557D37D4-1398-4FCC-A56D-CDF654FC03DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557D37D4-1398-4FCC-A56D-CDF654FC03DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
